@@ -1,2 +1,2 @@
 #info connected database
-db.php
+lib/db.php
